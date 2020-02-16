@@ -1,0 +1,56 @@
+body{
+    font-family: "Microsoft YaHei" ,sans-serif;
+
+}
+.mai-icon {
+    background: rgb(239, 112, 61);
+    color: #fff;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-right: 20px;
+}
+/*进度条*/
+.progress {
+    margin-bottom: 13px;
+}
+/*进度条*/
+
+
+/*头像*/
+.wh64 {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+.page-header {
+    margin-top: 0;
+}
+
+.page-header h1{
+    margin: 0;
+    font-size: 16px;
+}
+.mar_15 {
+    margin-top: 15px;
+}
+
+.user_search {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-top: none;
+}
+.tag_group {
+    margin-top: 20px;
+}
+.tag_class {
+    margin-right: 10px;
+
+}
+footer p{
+    text-align: center;
+    padding: 20px;
+    font-weight: 400;
+}
